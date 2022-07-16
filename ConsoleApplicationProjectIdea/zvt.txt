@@ -1,0 +1,132 @@
+Proponowany Build na rozgrywke zerg vs terran:
+
+  13	  0:12	  Overlord	  
+  16	  0:48	  Hatchery	  
+  18	  1:09	  Extractor	  
+  17	  1:13	  Spawning Pool	  
+  20	  1:48	  Overlord	  
+  20	  2:00	  Queen x2	  
+  20	  2:01	  Zergling x4	  
+  26	  2:11	  Metabolic Boost	  
+  28	  2:24	  Spore Crawler	  
+  28	  2:29	  Spore Crawler	  
+  26	  2:36	  Queen	  
+  34	  2:45	  Overlord	  
+  35	  2:56	  Hatchery	  
+  36	  3:06	  Overlord	  
+  43	  3:24	  Queen x2	  
+  45	  3:34	  Overlord	  
+  48	  3:45	  Zergling x6	  
+  48	  3:46	  Overlord x2	  
+  55	  4:03	  Zergling x2	  
+  55	  4:04	  Baneling Nest	  
+  52	  4:10	  Zergling x4	  
+  52	  4:16	  Extractor x2	  
+  57	  4:18	  Spore Crawler	  
+  57	  4:20	  Queen x2	  
+  62	  4:24	  Zergling x4	  
+  62	  4:27	  Lair	  
+  65	  4:37	  Extractor, Spore Crawler x3	  
+  61	  4:44	  Zergling x4	  
+  70	  4:53	  Overlord	  
+  70	  4:56	  Spore Crawler	  
+  71	  5:04	  Overlord	  
+  74	  5:07	  Extractor x2, Baneling x2	  
+  74	  5:08	  Zergling x2	  
+  76	  5:15	  Overlord	  
+  78	  5:23	  Zergling x4	  
+  80	  5:34	  Overseer	  
+  84	  5:36	  Centrifugal Hooks	  
+  83	  5:47	  Hatchery	  
+  89	  5:57	  Evolution Chamber x2	  
+  90	  6:06	  Overlord x2	  
+  90	  6:12	  Zergling x12	  
+  96	  6:23	  Zergling x14, Zerg Ground Armor Level 1	  
+  96	  6:25	  Zerg Melee Weapons Level 1	  
+  103	  6:29	  Baneling x8	  
+  103	  6:33	  Overseer	  
+  103	  6:36	  Overlord	  
+  103	  6:37	  Zergling x6	  
+  105	  6:42	  Zergling x12	  
+  105	  6:43	  Overseer	  
+  108	  6:53	  Zergling x6	  
+  114	  6:55	  Baneling x7	  
+  115	  7:02	  Zergling x12	  
+  115	  7:06	  Baneling x4	  
+  114	  7:18	  Zergling x14	  
+  114	  7:22	  Queen	  
+  114	  7:26	  Hydralisk Den	  
+  116	  7:32	  Spore Crawler	  
+  116	  7:36	  Baneling x2	  
+  116	  7:46	  Hatchery	  
+  116	  7:48	  Overseer	  
+  119	  7:54	  Extractor x2	  
+  119	  7:55	  Zergling x14	  
+  126	  7:59	  Muscular Augments	  
+  126	  8:03	  Overlord	  
+  124	  8:10	  Zergling x18	  
+  129	  8:18	  Queen	  
+  131	  8:21	  Baneling x6	  
+  130	  8:32	  Zergling x24	  
+  133	  8:41	  Hydralisk x5	  
+  133	  8:46	  Zerg Melee Weapons Level 2, Zerg Ground Armor Level 2	  
+  143	  8:49	  Overlord	  
+  143	  8:54	  Overlord x3	  
+  143	  9:07	  Baneling x5, Hydralisk x5	  
+  153	  9:11	  Grooved Spines	  
+  149	  9:21	  Baneling x8	  
+  149	  9:22	  Zergling x30	  
+  163	  9:30	  Baneling x2	  
+  160	  9:31	  Infestation Pit	  
+  160	  9:33	  Zergling x24	  
+  171	  9:45	  Zergling x10	  
+  174	  9:51	  Baneling x12	  
+  165	  10:00	  Zergling x28	  
+  161	  10:14	  Baneling	  
+  161	  10:15	  Zergling x32	  
+  160	  10:30	  Hive	  
+  165	  10:36	  Overlord x3	  
+  165	  10:38	  Baneling x2	  
+  160	  10:45	  Baneling x14, Lurker Den	  
+  162	  10:53	  Zergling x18	  
+  162	  10:56	  Baneling x3	  
+  171	  11:02	  Zerg Missile Weapons Level 1	  
+  171	  11:03	  Zergling x10	  
+  178	  11:15	  Zergling x14	  
+  156	  11:27	  Zergling x28	  
+  156	  11:31	  Hatchery	  
+  168	  11:34	  Burrow	  
+  165	  11:44	  Viper x2	  
+  165	  11:45	  Zergling x16	  
+  178	  11:48	  Baneling x16	  
+  178	  11:52	  Zergling x6	  
+  178	  11:54	  Baneling x3	  
+  179	  12:00	  Zergling x14	  
+  186	  12:01	  Adrenal Glands	  
+  186	  12:13	  Zergling x8	  
+  190	  12:19	  Zerg Ground Armor Level 3	  
+  190	  12:21	  Overlord x3	  
+  188	  12:25	  Extractor x2	  
+  188	  12:30	  Seismic Spines	  
+  188	  12:34	  Zergling x10	  
+  189	  12:39	  Baneling x4	  
+  189	  12:44	  Zergling x20	  
+  197	  12:46	  Baneling x8	  
+  198	  13:04	  Baneling x12	  
+  198	  13:11	  Zergling x16	  
+  171	  13:21	  Zergling x42	  
+  178	  13:27	  Zergling x18	  
+  178	  13:28	  Adaptive Talons	  
+  178	  13:32	  Hydralisk x3	  
+  190	  13:36	  Zerg Missile Weapons Level 2	  
+  190	  13:40	  Lurker x5	  
+  190	  13:41	  Zergling x10	  
+  199	  13:45	  Baneling x4	  
+  199	  13:53	  Extractor x2	  
+  199	  13:55	  , Spore Crawler	  
+  187	  14:15	  Zergling x34	  
+  196	  14:30	  Overseer x4	  
+  196	  14:33	  Pneumatized Carapace	  
+  183	  14:46	  Zergling x32	  
+  188	  14:53	  Zergling x24	  
+  188	  14:59	  Zergling x4

@@ -1,0 +1,67 @@
+Proponowany Build na rozgrywke terran vs terran:
+ 14	  0:18	  Supply Depot	  
+  15	  0:41	  Barracks	  
+  16	  0:45	  Refinery	  
+  16	  0:55	  Refinery	  
+  19	  1:28	  Orbital Command, Reaper	  
+  19	  1:30	  Supply Depot	  
+  20	  1:43	  Factory	  
+  21	  2:00	  Reaper	  
+  24	  2:25	  Command Center	  
+  24	  2:30	  Hellion	  
+  24	  2:32	  Reaper	  
+  28	  2:42	  Supply Depot	  
+  29	  2:51	  Hellion	  
+  31	  3:01	  Starport	  
+  32	  3:08	  Barracks Reactor	  
+  32	  3:19	  Factory Tech Lab	  
+  34	  3:34	  Refinery	  
+  34	  3:38	  Orbital Command	  
+  35	  3:44	  Factory Tech Lab	  
+  35	  3:45	  Raven, Marine x2	  
+  40	  4:04	  Cyclone, Marine x2	  
+  47	  4:11	  Supply Depot	  
+  49	  4:27	  Command Center	  
+  49	  4:30	  Raven	  
+  55	  4:43	  Siege Tank	  
+  57	  4:47	  Supply Depot	  
+  58	  4:54	  Marine x2	  
+  62	  5:08	  Refinery	  
+  64	  5:16	  Siege Tank	  
+  68	  5:26	  Viking x2	  
+  73	  5:28	  Stimpack	  
+  75	  5:39	  Orbital Command	  
+  75	  5:47	  Barracks x2	  
+  77	  5:53	  Siege Tank	  
+  80	  5:57	  Orbital Command	  
+  80	  6:01	  Viking x2	  
+  86	  6:20	  Marine	  
+  90	  6:30	  Engineering Bay x2	  
+  92	  6:34	  Siege Tank	  
+  92	  6:39	  Barracks Reactor x2	  
+  96	  6:42	  Viking x2	  
+  105	  7:01	  Terran Infantry Armor Level 1, Terran Infantry Weapons Level 1	  
+  105	  7:07	  Marine	  
+  107	  7:14	  Siege Tank	  
+  111	  7:16	  Viking x2	  
+  111	  7:21	  Marine x2	  
+  120	  7:24	  Combat Shield	  
+  123	  7:37	  Barracks x2	  
+  123	  7:38	  Refinery x2	  
+  123	  7:40	  Sensor Tower	  
+  128	  7:50	  Medivac x2	  
+  132	  7:55	  Siege Tank	  
+  141	  8:11	  Command Center	  
+  141	  8:23	  Armory	  
+  141	  8:28	  Factory	  
+  141	  8:30	  Medivac x2	  
+  149	  8:34	  Barracks Reactor x2	  
+  148	  8:57	  Siege Tank	  
+  148	  9:02	  Orbital Command x2	  
+  152	  9:05	  Medivac x2	  
+  152	  9:07	  Barracks Reactor	  
+  156	  9:15	  Barracks x3	  
+  163	  9:17	  Terran Infantry Armor Level 2, Terran Infantry Weapons Level 2	  
+  163	  9:20	  Terran Vehicle Weapons Level 1	  
+  161	  9:43	  Siege Tank	  
+  153	  9:55	  Siege Tank

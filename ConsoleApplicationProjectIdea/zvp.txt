@@ -1,0 +1,70 @@
+Proponowany Build na rozgrywke zerg vs protoss:
+
+  13	  0:12	  Overlord	  
+  16	  0:48	  Hatchery	  
+  18	  1:08	  Extractor	  
+  17	  1:13	  Spawning Pool	  
+  20	  1:48	  Overlord	  
+  20	  2:00	  Queen x2	  
+  26	  2:01	  Zergling x4	  
+  26	  2:12	  Metabolic Boost	  
+  30	  2:35	  Hatchery	  
+  31	  2:46	  Queen	  
+  31	  2:50	  Overlord	  
+  36	  3:03	  Overlord	  
+  44	  3:23	  Queen	  
+  46	  3:27	  Overlord	  
+  46	  3:32	  Queen	  
+  49	  3:46	  Zergling x6	  
+  52	  3:53	  Spore Crawler x2	  
+  60	  4:11	  Queen	  
+  60	  4:15	  Zergling x2	  
+  64	  4:29	  Spore Crawler	  
+  64	  4:31	  Zergling x2	  
+  65	  4:33	  Roach Warren	  
+  74	  4:48	  Lair	  
+  74	  4:50	  Extractor x2	  
+  74	  4:52	  Zergling x2	  
+  74	  5:02	  Extractor x2	  
+  74	  5:05	  Evolution Chamber	  
+  78	  5:20	  Queen x2	  
+  90	  5:31	  Extractor	  
+  89	  5:35	  Hatchery	  
+  89	  5:42	  Zerg Missile Weapons Level 1	  
+  96	  5:51	  Glial Reconstitution	  
+  96	  5:56	  Infestation Pit	  
+  96	  6:01	  Spire	  
+  95	  6:05	  Baneling Nest	  
+  95	  6:08	  Zergling x4	  
+  100	  6:15	  Overseer	  
+  100	  6:21	  Evolution Chamber	  
+  100	  6:22	  Queen x2	  
+  103	  6:32	  Hive	  
+  103	  6:34	  Extractor x2	  
+  111	  6:55	  Zerg Ground Armor Level 1	  
+  111	  6:58	  Centrifical Hooks	  
+  111	  7:02	  Roach x2	  
+  111	  7:04	  Overseer	  
+  117	  7:08	  Roach x4	  
+  123	  7:18	  Hatchery	  
+  122	  7:26	  Spore Crawler	  
+  121	  7:32	  Spore Crawler	  
+  132	  7:37	  Spire	  
+  131	  7:45	  Greater Spire	  
+  131	  7:50	  Viper x4, Ultralisk Cavern	  
+  142	  7:55	  Zerg Melee Weapons Level 1	  
+  142	  7:57	  Extractor x2	  
+  144	  8:11	  Spine Crawler	  
+  145	  8:16	  Pneumatized Carapace	  
+  145	  8:24	  Corruptor x6	  
+  157	  8:36	  Chitinous Plating	  
+  157	  8:46	  Ultralisk	  
+  157	  8:47	  Hatchery	  
+  167	  8:49	  Roach	  
+  174	  8:57	  Ultralisk x2	  
+  180	  9:04	  Zerg Flyer Weapons Level 1, Zerg Flyer Armor Level 1	  
+  180	  9:16	  Ultralisk	  
+  186	  9:23	  Corruptor x3	  
+  187	  9:39	  Corruptor	  
+  185	  9:55	  Spine Crawler x3	  
+  185	  9:58	  Anabolic Synthesis

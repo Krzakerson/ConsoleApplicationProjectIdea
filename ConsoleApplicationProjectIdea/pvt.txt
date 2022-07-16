@@ -1,0 +1,46 @@
+Proponowany Build na rozgrywke protoss vs terran:
+  14	  0:16	  Pylon	  
+  16	  0:36	  Gateway,	  
+  17	  0:50	  Pylon	  
+  17	  0:56	  Assimilator	  
+  19	  1:09	  Gateway	  
+  20	  1:23	  Cybernetics Core	  
+  22	  1:51	  Nexus	  
+  21	  2:00	  Stalker (Chrono Boost)	  
+  24	  2:14	  Assimilator	  
+  24	  2:15	  Stalker (Chrono Boost)	  
+  25	  2:21	  Stalker (Chrono Boost)	  
+  28	  2:38	  Pylon	  
+  29	  2:44	  Stalker	  
+  32	  3:04	  Warp Gate	  
+  37	  3:31	  Stalker	  
+  39	  3:39	  Twilight Council	  
+  41	  3:47	  Robotics Facility	  
+  44	  4:01	  Pylon x2	  
+  44	  4:10	  Blink (Chrono Boost)	  
+  46	  4:27	  Gateway x2	  
+  47	  4:32	  Gateway	  
+  47	  4:35	  Observer (Chrono Boost)	  
+  49	  4:41	  Assimilator	  
+  51	  4:50	  Warp Prism	  
+  53	  4:57	  Stalker	  
+  57	  5:20	  Stalker x3	  
+  59	  5:26	  Nexus	  
+  63	  5:29	  Observer	  
+  65	  5:48	  Stalker	  
+  76	  6:05	  Observer	  
+  82	  6:58	  Charge (Chrono Boost)	  
+  85	  7:15	  Gateway x2	  
+  88	  7:34	  Observer, Gateway x2	  
+  90	  7:37	  Templar Archives	  
+  90	  7:41	  Zealot x4	  
+  98	  7:49	  Assimilator	  
+  101	  7:51	  Shield Battery	  
+  101	  7:56	  Psionic Storm, Shield Battery	  
+  102	  7:59	  Warp Prism	  
+  103	  8:06	  Zealot x3	  
+  108	  8:21	  High Templar x2	  
+  108	  8:24	  Assimilator x2	  
+  113	  8:28	  Zealot x2	  
+  117	  8:40	  High Templar	  
+  117	  8:48	  Zealot

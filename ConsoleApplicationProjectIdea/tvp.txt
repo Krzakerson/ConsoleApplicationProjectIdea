@@ -1,0 +1,48 @@
+Proponowany Build na rozgrywke terran vs protoss:
+
+  14	  0:17	  Supply Depot	  
+  15	  0:39	  Barracks	  
+  16	  0:43	  Refinery	  
+  19	  1:27	  Marine	  
+  19	  1:28	  Orbital Command	  
+  20	  1:42	  Command Center	  
+  20	  1:45	  Barracks Reactor	  
+  21	  1:57	  Supply Depot	  
+  22	  2:20	  Barracks x2	  
+  23	  2:24	  Marine x2	  
+  26	  2:42	  Marine x2	  
+  29	  2:55	  Orbital Command	  
+  30	  3:00	  Marine x2	  
+  32	  3:11	  Barracks Tech Lab x2	  
+  33	  3:21	  Supply Depot	  
+  33	  3:25	  Marine	  
+  37	  3:30	  Stimpack, Concussive Shells	  
+  37	  3:32	  Marine x2	  
+  41	  3:46	  Supply Depot, Refinery	  
+  43	  3:50	  Marauder x2	  
+  49	  4:02	  Engineering Bay	  
+  51	  4:05	  Supply Depot	  
+  53	  4:13	  Combat Shield	  
+  63	  4:43	  Factory	  
+  65	  4:49	  Missile Turret	  
+  65	  4:53	  Terran Infantry Weapons Level 1	  
+  65	  4:58	  Command Center	  
+  78	  5:25	  Refinery x2	  
+  78	  5:28	  Starport, Factory Reactor	  
+  78	  5:41	  Marauder x2	  
+  86	  5:47	  Barracks x2	  
+  85	  6:04	  Marauder x2	  
+  91	  6:15	  Medivac x2	  
+  97	  6:22	  Factory Reactor	  
+  96	  6:28	  Marauder x2	  
+  96	  6:32	  Orbital Command	  
+  102	  6:36	  Barracks Reactor, Barracks Tech Lab	  
+  102	  6:45	  Medivac x2	  
+  108	  6:50	  Marauder x2	  
+  115	  7:06	  Bunker	  
+  115	  7:11	  Widow Mine x2	  
+  115	  7:15	  Medivac x2	  
+  146	  7:45	  Refinery x2	  
+  146	  7:52	  Widow Mine x2	  
+  146	  7:57	  Medivac x2	  
+  163	  8:12	  Command Center

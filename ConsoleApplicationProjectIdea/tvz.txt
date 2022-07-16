@@ -1,0 +1,78 @@
+Proponowany Build na rozgrywke terran vs zerg:
+  14	  0:16	  Supply Depot	  
+  15	  0:39	  Barracks	  
+  16	  0:43	  Refinery	  
+  19	  1:26	  Marine, Orbital Command	  
+  20	  1:38	  Command Center	  
+  20	  1:49	  Factory	  
+  21	  2:03	  Barracks Reactor	  
+  22	  2:09	  Supply Depot	  
+  22	  2:10	  Refinery	  
+  23	  2:36	  Hellion	  
+  26	  2:38	  Starport	  
+  26	  2:39	  Marine x2	  
+  29	  2:50	  Orbital Command	  
+  29	  2:57	  Marine x2	  
+  32	  3:02	  Hellion	  
+  35	  3:16	  Medivac	  
+  35	  3:17	  Marine x2	  
+  40	  3:22	  Supply Depot	  
+  41	  3:30	  Fusion Core	  
+  43	  3:46	  Supply Depot	  
+  43	  3:48	  Marine	  
+  44	  3:49	  Starport Tech Lab	  
+  44	  3:50	  Hellion x2	  
+  52	  4:10	  Command Center	  
+  52	  4:17	  Supply Depot	  
+  54	  4:30	  Battlecruiser	  
+  61	  4:42	  Refinery x2	  
+  63	  4:46	  Hellion x2	  
+  62	  5:12	  Hellion x2	  
+  67	  5:15	  Factory x2	  
+  69	  5:22	  Orbital Command	  
+  69	  5:30	  Armory x2	  
+  69	  5:34	  Hellion	  
+  73	  5:45	  Hellion	  
+  73	  5:48	  Orbital Command	  
+  80	  6:07	  Factory Tech Lab x2	  
+  80	  6:16	  Battlecruiser	  
+  91	  6:26	  Terran Vehicle And Ship Armor Level 1, Terran Vehicle Weapons Level 1	  
+  94	  6:40	  Refinery	  
+  98	  7:04	  Refinery	  
+  102	  7:13	  Weapon Refit	  
+  102	  7:15	  Siege Tank x2	  
+  111	  7:22	  Engineering Bay	  
+  116	  7:45	  Battlecruiser	  
+  116	  7:47	  Siege Tank	  
+  125	  7:55	  Command Center	  
+  123	  8:01	  Missile Turret x2	  
+  123	  8:05	  Factory x2	  
+  122	  8:21	  Infernal Pre-Igniter, Mag-Field Accelerator	  
+  122	  8:22	  Cyclone x2	  
+  122	  8:23	  Terran Vehicle Weapons Level 2	  
+  122	  8:29	  Terran Vehicle And Ship Armor Level 2	  
+  122	  8:40	  Command Center	  
+  126	  8:50	  Factory Reactor, Factory Tech Lab	  
+  126	  8:54	  Cyclone x2	  
+  129	  9:18	  Missile Turret	  
+  129	  9:19	  Factory x2	  
+  129	  9:20	  Cyclone	  
+  138	  9:26	  Cyclone x2	  
+  138	  9:30	  Missile Turret x2	  
+  144	  9:35	  Planetary Fortress	  
+  146	  9:39	  Refinery x2	  
+  145	  9:59	  Command Center, Thor x2	  
+  154	  10:06	  Factory Tech Lab x2	  
+  150	  10:12	  Thor	  
+  162	  10:38	  Thor x2	  
+  175	  10:46	  Planetary Fortress, Smart Servos	  
+  175	  10:55	  Thor	  
+  181	  11:04	  Thor	  
+  181	  11:05	  Hellbat x4	  
+  181	  11:09	  Refinery x2, Missile Turret x2	  
+  195	  11:21	  Siege Tank	  
+  195	  11:22	  Widow Mine	  
+  200	  11:35	  Orbital Command	  
+  200	  11:39	  Command Center	  
+  194	  11:45	  Siege Tank x2	  
+  193	  11:57	  Cyclone x2
